@@ -72,3 +72,11 @@ O arquivo `.env` está no `.gitignore` e não deve ser versionado.
 ## Stack
 
 `Python` · `requests` · `openpyxl` · `http.client` · `json`
+
+## Relatório completo
+
+Para quem for dar continuidade a este projeto, deixei um relatório
+detalhado explicando o contexto (Acórdão TCU 1648/2024), a metodologia
+e o passo a passo de como rodar cada script, questão por questão:
+
+📄 [Relatorio_Dados_Abertos_CRN1_TCU.pdf](./Relatorio_Dados_Abertos_CRN1_TCU.pdf)
